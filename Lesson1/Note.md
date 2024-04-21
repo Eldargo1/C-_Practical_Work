@@ -32,3 +32,5 @@ Console.WriteLine(negNum);(в этом случаее цифры будут сл
 Console.Write(negNum+ " ");
 ```
 Смотреть пример в папке Task2
+
+* 
