@@ -35,3 +35,22 @@ Console.Write(count);
 //     }
 // }
 // Console.Write(count);
+
+
+// Если пользовател  будет выводит болшие буквы 
+// гласные ине гласные то программа не поймет и не подсчитает нам гласные буквы
+// для этого мы используем следущую функцию 
+
+// Console.WriteLine("Введите строчку");
+// string UserInput = Console.ReadLine();
+// UserInput = UserInput.ToLower();
+// string vowels = "aeiouy";
+// int count = 0;
+// for (int i = 0; i < UserInput.Length; i++)
+// {
+//     if(vowels.Contains(UserInput[i]))
+//     {
+//         count++;
+//     }
+// }
+// Console.Write(count);
